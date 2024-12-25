@@ -1,0 +1,1 @@
+This repository contains a simple Hack program that causes the Hack compiler to fail with an "Unmatched opening parenthesis" error. The program consists of three simple functions, each calling the previous one. The error occurs even if all the function signatures are correctly specified.  The solution demonstrates how to correctly define the functions to avoid the compiler error.
